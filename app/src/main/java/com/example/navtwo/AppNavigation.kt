@@ -24,9 +24,5 @@ fun AppNavigation() {
         composable("search"){
             SearchPage(navController = navController)
         }
-
-
     }
-
-
 }
